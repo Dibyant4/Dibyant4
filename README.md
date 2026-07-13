@@ -6,7 +6,7 @@
 
 *Software Developer • UI/UX Explorer • IoT Builder • Creative Problem Solver*
 
-> *I don't just write code—I build experiences, experiment with ideas, and turn late-night "what if?" moments into real projects.*
+> *I don't just write code, I build experiences, experiment with ideas, and turn late-night "what if?" moments into real projects.*
 
 </div>
 
@@ -93,11 +93,11 @@ Every repository here is another step toward becoming a better engineer, designe
 
 ## 🤝 Let's Connect
 
-💼 LinkedIn
+💼 LinkedIn www.linkedin.com/in/dibyant-bhatta
 
 🌐 Portfolio *(Coming Soon)*
 
-📧 your-email@example.com
+📧 bhattadibyant@gmail.com
 
 ---
 
