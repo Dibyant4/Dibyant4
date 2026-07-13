@@ -1,110 +1,131 @@
-<div align="center">
+<p align="center">
+  <img src="assets/Banner.jpg" alt="Banner" width="100%" />
+</p>
 
-# Hey, I'm Dibyant! 👋
+<p align="center">
 
-### Building things that make people say, *"Wait... you made this?"*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=40&duration=3000&pause=1000&color=F6EB8A&center=true&vCenter=true&width=900&height=60&lines=Building+software+that+matters.;Designing+experiences+people+enjoy.;Exploring+ideas+without+limits.;Always+Learning+Something+New)](https://git.io/typing-svg)
 
-*Software Developer • UI/UX Explorer • IoT Builder • Creative Problem Solver*
+</p>
 
-> *I don't just write code, I build experiences, experiment with ideas, and turn late-night "what if?" moments into real projects.*
+<h1 align="center">Hey 👋, I'm Dibyant Bhatta</h1>
 
-</div>
+<p align="center">
+  <strong>Software Developer • Full Stack Enthusiast • UI/UX Explorer • IoT Builder</strong>
+</p>
 
----
-
-## 🚀 About Me
-
-Curiosity is what got me into tech, and creating is what keeps me here.
-
-I enjoy building software that feels effortless to use, looks great, and solves real problems. Whether it's developing a full-stack web application, designing an intuitive interface, or bringing an IoT project to life, I'm always looking for the next challenge that teaches me something new.
-
-When I'm not coding, you'll probably find me sketching ideas, redesigning interfaces that nobody asked me to redesign, or diving down a rabbit hole of new technologies just because they looked interesting.
+<p align="center">
+Building software, designing experiences, and turning ideas into reality.
+</p>
 
 ---
 
-## ⚡ Currently Exploring
+## 👨‍💻 About Me
 
-- 🌱 Building modern full-stack applications
-- ☕ Java & Spring Boot
-- ⚛️ React & modern JavaScript
-- 🤖 IoT with ESP32 & Arduino
-- 🎨 UI/UX Design & Creative Development
-- 🐳 Docker & Cloud Technologies
+I'm a software developer who enjoys building applications that are practical, intuitive, and enjoyable to use. I love exploring new technologies, solving challenging problems, and bringing ideas to life through clean code and thoughtful design.
+
+Currently, I'm expanding my skills in full-stack development while working on projects that combine software engineering, UI/UX, and IoT.
 
 ---
 
-# 🧰 Toolbox
+## 🚀 Currently Working On
 
-### 💻 Languages
-Java • JavaScript • Python • HTML • CSS • SQL
-
-### ⚙️ Frameworks
-Spring Boot • React • Node.js
-
-### 🗄 Databases
-MySQL
-
-### 🛠 Tools
-Git • GitHub • Docker • Figma • VS Code • IntelliJ IDEA • Arduino IDE
+- 🌱 Learning **Spring Boot**, **React**, and **Docker**
+- 💻 Building modern full-stack web applications
+- 🤖 Developing IoT projects using **ESP32** and **Arduino**
+- 🎨 Improving UI/UX design skills
+- 📚 Continuously learning new technologies
 
 ---
 
-# 🌟 Featured Projects
+## 🛠️ Tech Stack
+
+### Languages
+
+- Java
+- JavaScript
+- Python
+- HTML5
+- CSS3
+- SQL
+
+### Frameworks & Libraries
+
+- Spring Boot
+- React
+- Node.js
+
+### Databases
+
+- MySQL
+
+### Tools & Technologies
+
+- Git
+- GitHub
+- Docker
+- VS Code
+- IntelliJ IDEA
+- Figma
+- Arduino IDE
+
+---
+
+## 🌟 Featured Projects
 
 ### 🌿 Finora
-A premium e-commerce experience built around clean design, smooth shopping, and scalable architecture.
 
-### 🎨 ArtSphere
-A creative platform where artists can showcase their work, connect with others, and build their digital presence.
+A modern e-commerce platform designed to deliver a clean, premium shopping experience with scalable architecture.
 
-### 🤖 Security Surveillance Spider Bot
-A six-legged IoT surveillance robot powered by ESP32, featuring live camera streaming, remote control, and custom-built hardware.
+---
 
 ### ⏱️ Cronoz
-A modern productivity and time-management application focused on helping users organize tasks, manage schedules, and stay productive through an intuitive user experience.
+
+A productivity and task management application focused on helping users organize their schedules and stay productive.
 
 ---
 
-# 🎯 Things I Enjoy Building
+### 🎨 ArtSphere
 
-✨ Web Applications
-
-🎨 Beautiful User Interfaces
-
-⚙️ Backend Systems
-
-🤖 IoT Projects
-
-📱 Responsive Experiences
-
-💡 Crazy Ideas That Somehow End Up Working
+A platform built for artists to showcase their work, connect with the creative community, and grow their online presence.
 
 ---
 
-# 📈 Current Mission
+### 🤖 Security Surveillance Spider Bot
 
-To keep learning, keep building, and keep creating projects that I'm genuinely proud to put my name on.
-
-Every repository here is another step toward becoming a better engineer, designer, and problem solver.
+An IoT-powered hexapod robot featuring remote control, live ESP32-CAM video streaming, and intelligent surveillance capabilities.
 
 ---
 
-<div align="center">
+## 📖 What I'm Learning
 
-## 🤝 Let's Connect
-
-💼 LinkedIn www.linkedin.com/in/dibyant-bhatta
-
-🌐 Portfolio *(Coming Soon)*
-
-📧 bhattadibyant@gmail.com
+- Spring Boot
+- REST APIs
+- React
+- Docker
+- Cloud Computing
+- Software Architecture
 
 ---
 
-### ⭐ Thanks for stopping by!
+## 🎯 Goals
 
-*"The best projects usually start with a simple question..."*
+- Build impactful real-world software
+- Contribute to open-source projects
+- Expand my knowledge of backend systems
+- Create intuitive digital experiences
+- Continuously improve as a developer
 
-### **"What if I built it myself?"** 🚀
+---
 
-</div>
+## 📫 Connect With Me
+
+- 💼 LinkedIn: *(Add your LinkedIn URL)*
+- 📧 Email: *(Add your email)*
+- 🌐 Portfolio: *(Coming Soon)*
+
+---
+
+<p align="center">
+Thanks for visiting my profile! 🚀
+</p>
