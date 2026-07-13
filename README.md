@@ -20,6 +20,18 @@ Building software, designing experiences, and turning ideas into reality.
 
 ---
 
+<p align="center">
+  <a href="www.linkedin.com/in/dibyant-bhatta">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:bhattadibyant@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 I'm a software developer who enjoys building applications that are practical, intuitive, and enjoyable to use. I love exploring new technologies, solving challenging problems, and bringing ideas to life through clean code and thoughtful design.
@@ -39,61 +51,101 @@ Currently, I'm expanding my skills in full-stack development while working on pr
 ---
 
 ## 🛠️ Tech Stack
+<div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,python,mysql,git,github,docker,figma,vscode,idea,arduino"/>
 
-- Java
-- JavaScript
-- Python
-- HTML5
-- CSS3
-- SQL
+</div>
 
-### Frameworks & Libraries
+---
 
-- Spring Boot
-- React
-- Node.js
+## 🚀 Currently Exploring
 
-### Databases
-
-- MySQL
-
-### Tools & Technologies
-
-- Git
-- GitHub
-- Docker
-- VS Code
-- IntelliJ IDEA
-- Figma
-- Arduino IDE
+- 🌱 Spring Boot & Backend Development
+- ⚛️ Modern React Applications
+- 🐳 Docker & Cloud Technologies
+- 🤖 ESP32 & IoT Systems
+- 🎨 Building intuitive user experiences
 
 ---
 
 ## 🌟 Featured Projects
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
 ### 🌿 Finora
+Premium e-commerce platform built with Java, JSP, Servlets, HTML, CSS, and MySQL.
 
-A modern e-commerce platform designed to deliver a clean, premium shopping experience with scalable architecture.
+✨ Highlights
+- Secure authentication
+- Shopping cart
+- Admin dashboard
+- Responsive UI
 
----
+<a href="https://github.com/Dibyant4/Finora">
+View Project →
+</a>
 
-### ⏱️ Cronoz
+</td>
 
-A productivity and task management application focused on helping users organize their schedules and stay productive.
+<td width="50%">
 
----
+### ⏱ Cronoz
+A productivity and time-management application focused on helping users stay organized.
 
-### 🎨 ArtSphere
+✨ Highlights
+- Task management
+- Clean UI
+- Productivity focused
+- Modern design
 
-A platform built for artists to showcase their work, connect with the creative community, and grow their online presence.
+<a href="https://github.com/Dibyant4/Cronoz">
+View Project →
+</a>
 
----
+</td>
+</tr>
 
-### 🤖 Security Surveillance Spider Bot
+<tr>
+<td width="50%">
 
-An IoT-powered hexapod robot featuring remote control, live ESP32-CAM video streaming, and intelligent surveillance capabilities.
+### 🤖 Spider Control
+ESP32-based surveillance robot featuring live camera streaming and remote control.
+
+✨ Highlights
+- ESP32-CAM
+- Remote control
+- IoT
+- Embedded Systems
+
+<a href="https://github.com/Dibyant4/Spyder-Control">
+View Project →
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🎨 Art Sphere
+Creative platform where artists can showcase their work and connect with others.
+
+✨ Highlights
+- UI Design
+- Responsive
+- Community
+- Frontend
+
+<a href="https://github.com/Dibyant4/Art_Sphere">
+View Project →
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -105,6 +157,20 @@ An IoT-powered hexapod robot featuring remote control, live ESP32-CAM video stre
 - Docker
 - Cloud Computing
 - Software Architecture
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dibyant4&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="37%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dibyant4&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Dibyant4&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -126,6 +192,12 @@ An IoT-powered hexapod robot featuring remote control, live ESP32-CAM video stre
 
 ---
 
-<p align="center">
-Thanks for visiting my profile! 🚀
-</p>
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+*"Building software that matters."*
+
+</div>
+
+---
