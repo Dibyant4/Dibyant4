@@ -184,13 +184,6 @@ View Project →
 
 ---
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
-- 📧 Email: *(Add your email)*
-- 🌐 Portfolio: *(Coming Soon)*
-
----
 
 <div align="center">
 
