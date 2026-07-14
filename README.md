@@ -75,54 +75,63 @@ Currently, I'm expanding my skills in full-stack development while working on pr
 
 <table>
 <tr>
-<td width="50%">
-
-### 🌿 Finora
-Premium e-commerce platform built with Java, JSP, Servlets, HTML, CSS, and MySQL.
-
-✨ Highlights
-- Secure authentication
-- Shopping cart
-- Admin dashboard
-- Responsive UI
-
-<a href="https://github.com/Dibyant4/Finora">
-View Project →
-</a>
-
-</td>
 
 <td width="50%">
 
 ### ⏱ Cronoz
-A productivity and time-management application focused on helping users stay organized.
+
+A productivity and time-management application designed to help users organize tasks, track progress, and improve daily efficiency through a clean and intuitive interface.
 
 ✨ Highlights
-- Task management
-- Clean UI
-- Productivity focused
-- Modern design
+- Task Management
+- Productivity Tracking
+- Modern User Interface
+- Clean Design
+- User-focused Experience
 
 <a href="https://github.com/Dibyant4/Cronoz">
 View Project →
 </a>
 
 </td>
+
+<td width="50%">
+
+### 🏋️ Gym Management System
+
+A Java Swing-based desktop application designed to manage gym memberships, member records, and fitness operations through an interactive graphical interface.
+
+✨ Highlights
+- Java Swing Interface
+- Member Management
+- Premium & Regular Membership
+- Object-Oriented Programming
+- Data Handling
+
+<a href="https://github.com/Dibyant4/Gym-GUI">
+View Project →
+</a>
+
+</td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-### 🤖 Spider Control
-ESP32-based surveillance robot featuring live camera streaming and remote control.
+### ✅ Task Management System
+
+A Java-based task management application built to help users create, organize, and manage daily tasks with an efficient and user-friendly interface.
 
 ✨ Highlights
-- ESP32-CAM
-- Remote control
-- IoT
-- Embedded Systems
+- Java Application Development
+- Task Creation & Management
+- GUI Design
+- Object-Oriented Programming
+- User Experience Design
 
-<a href="https://github.com/Dibyant4/Spyder-Control">
+<a href="https://github.com/Dibyant4/Task-Management">
 View Project →
 </a>
 
@@ -130,20 +139,23 @@ View Project →
 
 <td width="50%">
 
-### 🎨 Art Sphere
-Creative platform where artists can showcase their work and connect with others.
+### 🌐 Personal Portfolio
+
+A professional portfolio website showcasing projects, technical skills, creative work, and development experience through a modern responsive design.
 
 ✨ Highlights
-- UI Design
-- Responsive
-- Community
-- Frontend
+- Frontend Development
+- Responsive Design
+- UI/UX Design
+- Project Showcase
+- Personal Branding
 
-<a href="https://github.com/Dibyant4/Art_Sphere">
+<a href="https://github.com/Dibyant4/dibyant.dev">
 View Project →
 </a>
 
 </td>
+
 </tr>
 </table>
 
